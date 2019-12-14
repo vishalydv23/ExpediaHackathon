@@ -1,0 +1,8 @@
+# Complete dataset
+data/raw/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+data/processed/testimageData.txt
+data/processed/trainingimageData.txt
+data/processed/dataset.hdf5
