@@ -85,34 +85,10 @@ Going through each step in more details.
     These are the screenshots of  some visualizations from the dashboard.
     
     ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization1.JPG "Result Visualization")
-    ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization1.JPG "Result Visualization")
-    ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization1.JPG "Result Visualization")
-    ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization1.JPG "Result Visualization")
+    ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization2.JPG "Result Visualization")
+    ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization3.JPG "Result Visualization")
+    ![AltText](https://github.com/vishalydv23/ExpediaHackathon/blob/master/data/ReadmeStore/visualization4.JPG "Result Visualization")
 
     Now let's take an example to see if this process worked. 
 
     We can see from the radar plot that the unemployment rate of  cluster 1 in category economics is really low and tourism per population for cluster 1 in the tourism category is high. There are 25 overlapping counties in these two clusters. The 1st datapoint of these 25 values is county haines borough alaska. And we can see from this [**report**](https://www.hainesalaska.gov/sites/default/files/fileattachments/tourism/page/1424/haines_winter_visitor_study_revised.pdf) that tourism is bringing down unemployment in this county significantly during winters. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
